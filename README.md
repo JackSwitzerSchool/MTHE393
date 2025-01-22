@@ -7,7 +7,7 @@
    <img src="Lab1/lab1_group2/AngularVelocityofMotor.png" alt="Angular Velocity Graph" width="400"/> 
  </div> 
 
- [Lab 2](Lab2/): Impulse Response. 
+ [Lab 2](Lab2/): Impulse Response
 
  <div style="display: flex;">
   <img src="Lab2/Figures/real_omega_impulse.png" alt="Real Omega Impulse Response" width="400"/>
