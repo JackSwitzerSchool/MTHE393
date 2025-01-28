@@ -17,3 +17,12 @@
     <td style="width: 50%;"><img src="Lab2/Figures/PNG/pulse_gen_epsilon1.png" alt="Pulse Gen Epsilon 1" style="max-width: 100%; height: auto;"></td>
   </tr>
 </table>
+
+[Lab 3](Lab3/): Bode Plot
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%;"><img src="Lab3/Figures/PNG/omega_bode1.png" alt="Simulated Omega Bode Plot" style="max-width: 100%; height: auto;"></td>
+    <td style="width: 50%;"><img src="Lab3/Figures/PNG/theta_bode1.png" alt="Simulated Theta Bode Plot" style="max-width: 100%; height: auto;"></td>
+  </tr>
+</table>
