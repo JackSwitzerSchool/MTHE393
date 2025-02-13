@@ -26,3 +26,12 @@
     <td style="width: 50%;"><img src="Lab3/Figures/PNG/theta_bode1.png" alt="Simulated Theta Bode Plot" style="max-width: 100%; height: auto;"></td>
   </tr>
 </table>
+
+[Lab 4](Lab4/): BIBO Stability
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%;"><img src="Lab4/Figures/PNG/sinu on first system.png" alt="Bounded input (Sin(u)) vs. Unbounded output" style="max-width: 100%; height: auto;"></td>
+    <td style="width: 50%;"><img src="Lab4/Figures/PNG/sinu on second system.png" alt="Bounded input (sin(u)) vs. Bounded output (a*sin(u))" style="max-width: 100%; height: auto;"></td>
+  </tr>
+</table>

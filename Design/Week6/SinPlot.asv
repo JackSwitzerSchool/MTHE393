@@ -1,0 +1,7 @@
+plot(cos.output.time, Sin2Out.output.signal)
+hold on
+plot(S2inOut.output.time, S2inOut.output.signal)
+hold off
+
+title('Sin(t*2) vs 2*Sin(t)')
+legend('Input','Output')
